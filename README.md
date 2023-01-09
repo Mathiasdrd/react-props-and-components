@@ -1,4 +1,4 @@
-<p class="red">IMPORTANT: THIS PROJECT WAS CREATED BY FOLLOWING THE FREE COURSE "LEARN REACT FOR FREE" FROM Scrimba.com. I take no creative credit for this project and simply followed along with the instructions from the course. This project was used to learn some of the basics of React. In no way do I take any credit for the idea of the project nor the contents of this project. </p>
+IMPORTANT: THIS PROJECT WAS CREATED BY FOLLOWING THE FREE COURSE "LEARN REACT FOR FREE" FROM Scrimba.com. I take no creative credit for this project and simply followed along with the instructions from the course. This project was used to learn some of the basics of React. In no way do I take any credit for the idea of the project nor the contents of this project.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
